@@ -1,0 +1,15 @@
+*{
+margin: 0; 
+padding: 0;
+
+}
+
+.wrapper {
+    margin: o auto;
+    width: 1000px;
+
+}
+
+.img-chess {
+    width: 300px;
+}
